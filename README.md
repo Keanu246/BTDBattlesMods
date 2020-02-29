@@ -1,4 +1,4 @@
-# BTDBattlesMods
+# BTDBattlesUltraMod
 The official modding page for my BTD battles mods and passwords.
 
 Password:
